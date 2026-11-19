@@ -1,0 +1,6 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,Codex,"After removing the duplicate partial three_wheeler boxes, the remaining sampled boxes align with the visible vehicles and people."
+img_006.jpg,,khong,Codex,"After enlarging the car box to its visible boundary, no other definite error found; motorbikes are crowded and partially overlap in perspective."
+img_014.jpg,,khong,Codex,"Sampled people and motorbike boxes align with visible road users; no definite duplicate or wrong class found."
+img_031.jpg,,khong,Codex,"Bicycle box covers the loaded bicycle and attached goods; seller has a separate person box. No definite error found."
+img_035.jpg,,khong,Codex,"After joining the split cyclo boxes and correcting the driver box, no other definite error found in the sampled scene."
