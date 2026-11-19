@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): K5-L23
 - Tài khoản GitHub: DEVducanh
 - Repo bài nộp (URL): https://github.com/DEVducanh/K5-L23-Day08-2A202604049-NguyenDucAnh-AI-Assisted-Labeling
-- Commit chốt bài (hash): HEAD `00fbe1a` trước các thay đổi CP5–CP6; các thay đổi hiện tại chưa commit.
+- Commit chốt bài (hash): `9a2e69a` (commit chứa sản phẩm và tài liệu CP5–CP6).
 - Máy: Windows, PyTorch CPU-only; CUDA không khả dụng.
 - CVAT (Docker): v2.81.0
 
